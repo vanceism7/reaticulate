@@ -1,0 +1,171 @@
+// ****************
+// SYN-zed VIOLIN I
+// ****************
+
+//! g="VSL - SYNCHRON/SYN-zed Solo Strings (2023)" n="SYN-zed Violin I"
+Bank * * SYN-zed Violin I
+
+//! c=shorter o=note:24/note:29/note:36/note:41
+42 Single - Spicato Reg
+
+//! c=shorter o=note:24/note:29/note:36/note:42
+43 Single - Spicato Fast
+
+//! c=shorter o=note:24/note:29/note:36/note:43
+44 Single - Spicato Auto
+
+//! c=shorter o=note:24/note:29/note:36/note:44
+52 Single - Spicato Harsh
+
+//! c=short o=note:24/note:29/note:37
+40 Single - Staccato
+
+//! c=short o=note:24/note:29/note:38
+41 Single - Short detache
+
+//! c=short o=note:24/note:29/note:39
+39 Single - Long detache
+
+//! c=short o=note:24/note:29/note:40
+38 Single - Perf detache
+
+//!spacer=1
+
+//! c=long o=note:24/note:30/note:36
+1 Single - Sustain
+
+//! c=legato o=note:24/note:30/note:37/note:40
+20 Single - Legato Looped
+
+//! c=legato o=note:24/note:30/note:37/note:41
+21 Single - Legato unlooped
+
+//! c=legato o=note:24/note:30/note:37/note:42
+22 Single - Legato Fast
+
+//! c=legato o=note:24/note:30/note:37/note:43
+23 Single - Legato Trills
+
+//! c=legato o=note:24/note:30/note:37/note:44
+24 Single - Auto Legato
+
+//! c=legato o=note:24/note:30/note:37/note:45
+25 Single - Auto Legato Trill
+
+//! c=legato o=note:24/note:30/note:38/note:41
+26 Single - Portamento Reg
+
+//! c=legato o=note:24/note:30/note:38/note:42
+25 Single - Portamento Zigane
+
+//! c=legato o=note:24/note:30/note:39/note:41
+9 Single - Marcato Perf
+
+//! c=legato o=note:24/note:30/note:39/note:42
+8 Single - Marcato Perf Fast
+
+//! c=legato o=note:24/note:30/note:39/note:43
+6 Single - Marcato Auto
+
+//! c=legato o=note:24/note:30/note:39/note:44
+5 Single - Marcato Sustain
+
+//!spacer=1
+
+//! c=dynamics o=note:24/note:31/note:36/note:41
+100 Single - Sforzato 
+
+//! c=dynamics o=note:24/note:31/note:36/note:42
+101 Single - Fortepiano
+
+//! c=dynamics o=note:24/note:31/note:36/note:43
+102 Single - Sforzatissimo
+
+//! c=dynamics o=note:24/note:31/note:36/note:44
+103 Single - Sforzato Cres. 
+
+//! c=dynamics o=note:24/note:31/note:36/note:45
+104 Single - Fortepiano Cres.
+
+//! c=dynamics o=note:24/note:31/note:37/note:41
+105 Single - Soft 1.5s cres.  
+
+//! c=dynamics o=note:24/note:31/note:37/note:42
+106 Single - Soft 3s cres.  
+
+//! c=dynamics o=note:24/note:31/note:37/note:43
+107 Single - Soft 4.5s cres.  
+
+//! c=dynamics o=note:24/note:31/note:37/note:44
+108 Single - Soft 1.5s dim.  
+
+//! c=dynamics o=note:24/note:31/note:37/note:45
+109 Single - Soft 3s dim.  
+
+//! c=dynamics o=note:24/note:31/note:37/note:46
+110 Single - Soft 4.5s dim.  
+
+
+//! c=dynamics o=note:24/note:31/note:38/note:41
+105 Single - Strong 1.5s cres.  
+
+//! c=dynamics o=note:24/note:31/note:38/note:42
+106 Single - Strong 3s cres.  
+
+//! c=dynamics o=note:24/note:31/note:38/note:43
+107 Single - Strong 4.5s cres.  
+
+//! c=dynamics o=note:24/note:31/note:38/note:44
+108 Single - Strong 1.5s dim.  
+
+//! c=dynamics o=note:24/note:31/note:38/note:45
+109 Single - Strong 3s dim.  
+
+//! c=dynamics o=note:24/note:31/note:38/note:46
+110 Single - Strong 4.5s dim.  
+
+
+
+//! c=dynamics o=note:24/note:31/note:39/note:41
+111 Single - Pfp 3s
+
+//! c=dynamics o=note:24/note:31/note:39/note:42
+112 Single - Pfp 6s
+
+//!spacer=1
+
+//! c=dynamics o=note:24/note:32/note:36
+56 Single - Pizzicato
+
+//! c=dynamics o=note:24/note:32/note:37
+57 Single - Pizzicato Secco
+
+//! c=dynamics o=note:24/note:32/note:38
+58 Single - Snap Pizzicato
+
+//! c=dynamics o=note:24/note:32/note:39
+59 Single - Col Legno
+
+
+//!spacer=1
+
+//! c=dynamics o=note:24/note:33/note:36/note:41
+200 Single - Fake Harmonics Sustain
+
+//! c=dynamics o=note:24/note:33/note:36/note:42
+201 Single - Fake Harmonics Detache
+
+//! c=dynamics o=note:24/note:33/note:36/note:43
+202 Single - Fake Harmonics Staccato
+
+//! c=dynamics o=note:24/note:33/note:37/note:41
+10 Single - Harmonics Sustain
+
+//! c=dynamics o=note:24/note:33/note:37/note:42
+203 Single - Harmonics Detache
+
+//! c=dynamics o=note:24/note:33/note:37/note:43
+204 Single - Harmonics Staccato
+
+//!spacer=1
+
